@@ -1,1 +1,0 @@
-Older style NEXT.JS API items will go into this folder
